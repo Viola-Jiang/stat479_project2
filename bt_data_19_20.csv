@@ -1,0 +1,486 @@
+"Date","Home","Away","winner","loser","weight"
+2019-08-16,"Athletic Club","Barcelona","Athletic Club","Barcelona",3
+2019-08-17,"Celta Vigo","Real Madrid","Real Madrid","Celta Vigo",3
+2019-08-17,"Valencia","Real Sociedad","Valencia","Real Sociedad",1
+2019-08-17,"Valencia","Real Sociedad","Real Sociedad","Valencia",1
+2019-08-17,"Mallorca","Eibar","Mallorca","Eibar",3
+2019-08-17,"Villarreal","Granada","Villarreal","Granada",1
+2019-08-17,"Villarreal","Granada","Granada","Villarreal",1
+2019-08-17,"Leganés","Osasuna","Osasuna","Leganés",3
+2019-08-18,"Alavés","Levante","Alavés","Levante",3
+2019-08-18,"Espanyol","Sevilla","Sevilla","Espanyol",3
+2019-08-18,"Betis","Valladolid","Valladolid","Betis",3
+2019-08-18,"Atlético Madrid","Getafe","Atlético Madrid","Getafe",3
+2019-10-25,"Villarreal","Alavés","Villarreal","Alavés",3
+2019-10-26,"Leganés","Mallorca","Leganés","Mallorca",3
+2019-10-26,"Valladolid","Eibar","Valladolid","Eibar",3
+2019-10-26,"Atlético Madrid","Athletic Club","Atlético Madrid","Athletic Club",3
+2019-10-27,"Celta Vigo","Real Sociedad","Real Sociedad","Celta Vigo",3
+2019-10-27,"Granada","Betis","Granada","Betis",3
+2019-10-27,"Levante","Espanyol","Espanyol","Levante",3
+2019-10-27,"Sevilla","Getafe","Sevilla","Getafe",3
+2019-10-27,"Osasuna","Valencia","Osasuna","Valencia",3
+2019-12-18,"Barcelona","Real Madrid","Barcelona","Real Madrid",1
+2019-12-18,"Barcelona","Real Madrid","Real Madrid","Barcelona",1
+2019-10-29,"Alavés","Atlético Madrid","Alavés","Atlético Madrid",1
+2019-10-29,"Alavés","Atlético Madrid","Atlético Madrid","Alavés",1
+2019-10-29,"Barcelona","Valladolid","Barcelona","Valladolid",3
+2019-10-30,"Valencia","Sevilla","Valencia","Sevilla",1
+2019-10-30,"Valencia","Sevilla","Sevilla","Valencia",1
+2019-10-30,"Real Sociedad","Levante","Levante","Real Sociedad",3
+2019-10-30,"Athletic Club","Espanyol","Athletic Club","Espanyol",3
+2019-10-30,"Betis","Celta Vigo","Betis","Celta Vigo",3
+2019-10-30,"Real Madrid","Leganés","Real Madrid","Leganés",3
+2019-10-31,"Eibar","Villarreal","Eibar","Villarreal",3
+2019-10-31,"Mallorca","Osasuna","Mallorca","Osasuna",1
+2019-10-31,"Mallorca","Osasuna","Osasuna","Mallorca",1
+2019-10-31,"Getafe","Granada","Getafe","Granada",3
+2019-11-02,"Espanyol","Valencia","Valencia","Espanyol",3
+2019-11-02,"Levante","Barcelona","Levante","Barcelona",3
+2019-11-02,"Sevilla","Atlético Madrid","Sevilla","Atlético Madrid",1
+2019-11-02,"Sevilla","Atlético Madrid","Atlético Madrid","Sevilla",1
+2019-11-02,"Real Madrid","Betis","Real Madrid","Betis",1
+2019-11-02,"Real Madrid","Betis","Betis","Real Madrid",1
+2019-11-03,"Valladolid","Mallorca","Valladolid","Mallorca",3
+2019-11-03,"Villarreal","Athletic Club","Villarreal","Athletic Club",1
+2019-11-03,"Villarreal","Athletic Club","Athletic Club","Villarreal",1
+2019-11-03,"Osasuna","Alavés","Osasuna","Alavés",3
+2019-11-03,"Celta Vigo","Getafe","Getafe","Celta Vigo",3
+2019-11-03,"Leganés","Eibar","Eibar","Leganés",3
+2019-11-03,"Granada","Real Sociedad","Real Sociedad","Granada",3
+2019-11-08,"Real Sociedad","Leganés","Real Sociedad","Leganés",1
+2019-11-08,"Real Sociedad","Leganés","Leganés","Real Sociedad",1
+2019-11-09,"Alavés","Valladolid","Alavés","Valladolid",3
+2019-11-09,"Valencia","Granada","Valencia","Granada",3
+2019-11-09,"Eibar","Real Madrid","Real Madrid","Eibar",3
+2019-11-09,"Barcelona","Celta Vigo","Barcelona","Celta Vigo",3
+2019-11-10,"Mallorca","Villarreal","Mallorca","Villarreal",3
+2019-11-10,"Athletic Club","Levante","Athletic Club","Levante",3
+2019-11-10,"Atlético Madrid","Espanyol","Atlético Madrid","Espanyol",3
+2019-11-10,"Getafe","Osasuna","Getafe","Osasuna",1
+2019-11-10,"Getafe","Osasuna","Osasuna","Getafe",1
+2019-11-10,"Betis","Sevilla","Sevilla","Betis",3
+2019-11-22,"Levante","Mallorca","Levante","Mallorca",3
+2019-11-23,"Leganés","Barcelona","Barcelona","Leganés",3
+2019-11-23,"Betis","Valencia","Betis","Valencia",3
+2019-11-23,"Granada","Atlético Madrid","Granada","Atlético Madrid",1
+2019-11-23,"Granada","Atlético Madrid","Atlético Madrid","Granada",1
+2019-11-23,"Real Madrid","Real Sociedad","Real Madrid","Real Sociedad",3
+2019-11-24,"Espanyol","Getafe","Espanyol","Getafe",1
+2019-11-24,"Espanyol","Getafe","Getafe","Espanyol",1
+2019-11-24,"Osasuna","Athletic Club","Athletic Club","Osasuna",3
+2019-11-24,"Eibar","Alavés","Alavés","Eibar",3
+2019-11-24,"Villarreal","Celta Vigo","Celta Vigo","Villarreal",3
+2019-11-24,"Valladolid","Sevilla","Sevilla","Valladolid",3
+2019-11-29,"Celta Vigo","Valladolid","Celta Vigo","Valladolid",1
+2019-11-29,"Celta Vigo","Valladolid","Valladolid","Celta Vigo",1
+2019-11-30,"Alavés","Real Madrid","Real Madrid","Alavés",3
+2019-11-30,"Real Sociedad","Eibar","Real Sociedad","Eibar",3
+2019-11-30,"Mallorca","Betis","Betis","Mallorca",3
+2019-11-30,"Valencia","Villarreal","Valencia","Villarreal",3
+2019-12-01,"Sevilla","Leganés","Sevilla","Leganés",3
+2019-12-01,"Athletic Club","Granada","Athletic Club","Granada",3
+2019-12-01,"Espanyol","Osasuna","Osasuna","Espanyol",3
+2019-12-01,"Getafe","Levante","Getafe","Levante",3
+2019-12-01,"Atlético Madrid","Barcelona","Barcelona","Atlético Madrid",3
+2019-12-06,"Villarreal","Atlético Madrid","Villarreal","Atlético Madrid",1
+2019-12-06,"Villarreal","Atlético Madrid","Atlético Madrid","Villarreal",1
+2019-12-07,"Real Madrid","Espanyol","Real Madrid","Espanyol",3
+2019-12-07,"Granada","Alavés","Granada","Alavés",3
+2019-12-07,"Levante","Valencia","Valencia","Levante",3
+2019-12-07,"Barcelona","Mallorca","Barcelona","Mallorca",3
+2019-12-08,"Eibar","Getafe","Getafe","Eibar",3
+2019-12-08,"Betis","Athletic Club","Betis","Athletic Club",3
+2019-12-08,"Valladolid","Real Sociedad","Valladolid","Real Sociedad",1
+2019-12-08,"Valladolid","Real Sociedad","Real Sociedad","Valladolid",1
+2019-12-08,"Leganés","Celta Vigo","Leganés","Celta Vigo",3
+2019-12-08,"Osasuna","Sevilla","Osasuna","Sevilla",1
+2019-12-08,"Osasuna","Sevilla","Sevilla","Osasuna",1
+2019-12-13,"Alavés","Leganés","Alavés","Leganés",1
+2019-12-13,"Alavés","Leganés","Leganés","Alavés",1
+2019-12-14,"Granada","Levante","Levante","Granada",3
+2019-12-14,"Real Sociedad","Barcelona","Real Sociedad","Barcelona",1
+2019-12-14,"Real Sociedad","Barcelona","Barcelona","Real Sociedad",1
+2019-12-14,"Athletic Club","Eibar","Athletic Club","Eibar",1
+2019-12-14,"Athletic Club","Eibar","Eibar","Athletic Club",1
+2019-12-14,"Atlético Madrid","Osasuna","Atlético Madrid","Osasuna",3
+2019-12-15,"Getafe","Valladolid","Getafe","Valladolid",3
+2019-12-15,"Celta Vigo","Mallorca","Celta Vigo","Mallorca",1
+2019-12-15,"Celta Vigo","Mallorca","Mallorca","Celta Vigo",1
+2019-12-15,"Espanyol","Betis","Espanyol","Betis",1
+2019-12-15,"Espanyol","Betis","Betis","Espanyol",1
+2019-12-15,"Sevilla","Villarreal","Villarreal","Sevilla",3
+2019-12-15,"Valencia","Real Madrid","Valencia","Real Madrid",1
+2019-12-15,"Valencia","Real Madrid","Real Madrid","Valencia",1
+2019-12-20,"Eibar","Granada","Eibar","Granada",3
+2019-12-21,"Mallorca","Sevilla","Sevilla","Mallorca",3
+2019-12-21,"Barcelona","Alavés","Barcelona","Alavés",3
+2019-12-21,"Villarreal","Getafe","Villarreal","Getafe",3
+2019-12-21,"Valladolid","Valencia","Valladolid","Valencia",1
+2019-12-21,"Valladolid","Valencia","Valencia","Valladolid",1
+2019-12-22,"Leganés","Espanyol","Leganés","Espanyol",3
+2019-12-22,"Osasuna","Real Sociedad","Real Sociedad","Osasuna",3
+2019-12-22,"Betis","Atlético Madrid","Atlético Madrid","Betis",3
+2019-12-22,"Levante","Celta Vigo","Levante","Celta Vigo",3
+2019-12-22,"Real Madrid","Athletic Club","Real Madrid","Athletic Club",1
+2019-12-22,"Real Madrid","Athletic Club","Athletic Club","Real Madrid",1
+2020-01-03,"Valladolid","Leganés","Valladolid","Leganés",1
+2020-01-03,"Valladolid","Leganés","Leganés","Valladolid",1
+2020-01-03,"Sevilla","Athletic Club","Sevilla","Athletic Club",1
+2020-01-03,"Sevilla","Athletic Club","Athletic Club","Sevilla",1
+2020-01-04,"Valencia","Eibar","Valencia","Eibar",3
+2020-01-04,"Getafe","Real Madrid","Real Madrid","Getafe",3
+2020-01-04,"Atlético Madrid","Levante","Atlético Madrid","Levante",3
+2020-01-04,"Espanyol","Barcelona","Espanyol","Barcelona",1
+2020-01-04,"Espanyol","Barcelona","Barcelona","Espanyol",1
+2020-01-05,"Granada","Mallorca","Granada","Mallorca",3
+2020-01-05,"Real Sociedad","Villarreal","Villarreal","Real Sociedad",3
+2020-01-05,"Alavés","Betis","Alavés","Betis",1
+2020-01-05,"Alavés","Betis","Betis","Alavés",1
+2020-01-05,"Celta Vigo","Osasuna","Celta Vigo","Osasuna",1
+2020-01-05,"Celta Vigo","Osasuna","Osasuna","Celta Vigo",1
+2019-08-23,"Granada","Sevilla","Sevilla","Granada",3
+2019-08-23,"Levante","Villarreal","Levante","Villarreal",3
+2019-08-24,"Osasuna","Eibar","Osasuna","Eibar",1
+2019-08-24,"Osasuna","Eibar","Eibar","Osasuna",1
+2019-08-24,"Real Madrid","Valladolid","Real Madrid","Valladolid",1
+2019-08-24,"Real Madrid","Valladolid","Valladolid","Real Madrid",1
+2019-08-24,"Celta Vigo","Valencia","Celta Vigo","Valencia",3
+2019-08-24,"Getafe","Athletic Club","Getafe","Athletic Club",1
+2019-08-24,"Getafe","Athletic Club","Athletic Club","Getafe",1
+2019-08-25,"Mallorca","Real Sociedad","Real Sociedad","Mallorca",3
+2019-08-25,"Alavés","Espanyol","Alavés","Espanyol",1
+2019-08-25,"Alavés","Espanyol","Espanyol","Alavés",1
+2019-08-25,"Leganés","Atlético Madrid","Atlético Madrid","Leganés",3
+2019-08-25,"Barcelona","Betis","Barcelona","Betis",3
+2020-01-17,"Leganés","Getafe","Getafe","Leganés",3
+2020-01-18,"Levante","Alavés","Alavés","Levante",3
+2020-01-18,"Real Madrid","Sevilla","Real Madrid","Sevilla",3
+2020-01-18,"Osasuna","Valladolid","Osasuna","Valladolid",1
+2020-01-18,"Osasuna","Valladolid","Valladolid","Osasuna",1
+2020-01-18,"Eibar","Atlético Madrid","Eibar","Atlético Madrid",3
+2020-01-19,"Mallorca","Valencia","Mallorca","Valencia",3
+2020-01-19,"Betis","Real Sociedad","Betis","Real Sociedad",3
+2020-01-19,"Villarreal","Espanyol","Espanyol","Villarreal",3
+2020-01-19,"Athletic Club","Celta Vigo","Athletic Club","Celta Vigo",1
+2020-01-19,"Athletic Club","Celta Vigo","Celta Vigo","Athletic Club",1
+2020-01-19,"Barcelona","Granada","Barcelona","Granada",3
+2020-01-24,"Osasuna","Levante","Osasuna","Levante",3
+2020-01-25,"Espanyol","Athletic Club","Espanyol","Athletic Club",1
+2020-01-25,"Espanyol","Athletic Club","Athletic Club","Espanyol",1
+2020-01-25,"Valencia","Barcelona","Valencia","Barcelona",3
+2020-01-25,"Alavés","Villarreal","Villarreal","Alavés",3
+2020-01-25,"Sevilla","Granada","Sevilla","Granada",3
+2020-01-26,"Atlético Madrid","Leganés","Atlético Madrid","Leganés",1
+2020-01-26,"Atlético Madrid","Leganés","Leganés","Atlético Madrid",1
+2020-01-26,"Celta Vigo","Eibar","Celta Vigo","Eibar",1
+2020-01-26,"Celta Vigo","Eibar","Eibar","Celta Vigo",1
+2020-01-26,"Getafe","Betis","Getafe","Betis",3
+2020-01-26,"Real Sociedad","Mallorca","Real Sociedad","Mallorca",3
+2020-01-26,"Valladolid","Real Madrid","Real Madrid","Valladolid",3
+2020-02-01,"Granada","Espanyol","Granada","Espanyol",3
+2020-02-01,"Real Madrid","Atlético Madrid","Real Madrid","Atlético Madrid",3
+2020-02-01,"Mallorca","Valladolid","Valladolid","Mallorca",3
+2020-02-01,"Valencia","Celta Vigo","Valencia","Celta Vigo",3
+2020-02-02,"Leganés","Real Sociedad","Leganés","Real Sociedad",3
+2020-02-02,"Eibar","Betis","Eibar","Betis",1
+2020-02-02,"Eibar","Betis","Betis","Eibar",1
+2020-02-02,"Athletic Club","Getafe","Getafe","Athletic Club",3
+2020-02-02,"Villarreal","Osasuna","Villarreal","Osasuna",3
+2020-02-02,"Sevilla","Alavés","Sevilla","Alavés",1
+2020-02-02,"Sevilla","Alavés","Alavés","Sevilla",1
+2020-02-02,"Barcelona","Levante","Barcelona","Levante",3
+2020-02-07,"Alavés","Eibar","Alavés","Eibar",3
+2020-02-08,"Levante","Leganés","Levante","Leganés",3
+2020-02-08,"Getafe","Valencia","Getafe","Valencia",3
+2020-02-08,"Valladolid","Villarreal","Valladolid","Villarreal",1
+2020-02-08,"Valladolid","Villarreal","Villarreal","Valladolid",1
+2020-02-08,"Atlético Madrid","Granada","Atlético Madrid","Granada",3
+2020-02-09,"Espanyol","Mallorca","Espanyol","Mallorca",3
+2020-02-09,"Real Sociedad","Athletic Club","Real Sociedad","Athletic Club",3
+2020-02-09,"Osasuna","Real Madrid","Real Madrid","Osasuna",3
+2020-02-09,"Celta Vigo","Sevilla","Celta Vigo","Sevilla",3
+2020-02-09,"Betis","Barcelona","Barcelona","Betis",3
+2020-02-14,"Valencia","Atlético Madrid","Valencia","Atlético Madrid",1
+2020-02-14,"Valencia","Atlético Madrid","Atlético Madrid","Valencia",1
+2020-02-15,"Mallorca","Alavés","Mallorca","Alavés",3
+2020-02-15,"Barcelona","Getafe","Barcelona","Getafe",3
+2020-02-15,"Villarreal","Levante","Villarreal","Levante",3
+2020-02-15,"Granada","Valladolid","Granada","Valladolid",3
+2020-02-16,"Sevilla","Espanyol","Sevilla","Espanyol",1
+2020-02-16,"Sevilla","Espanyol","Espanyol","Sevilla",1
+2020-02-16,"Leganés","Betis","Leganés","Betis",1
+2020-02-16,"Leganés","Betis","Betis","Leganés",1
+2020-02-16,"Athletic Club","Osasuna","Osasuna","Athletic Club",3
+2020-02-16,"Real Madrid","Celta Vigo","Real Madrid","Celta Vigo",1
+2020-02-16,"Real Madrid","Celta Vigo","Celta Vigo","Real Madrid",1
+2020-03-10,"Eibar","Real Sociedad","Real Sociedad","Eibar",3
+2020-02-21,"Betis","Mallorca","Betis","Mallorca",1
+2020-02-21,"Betis","Mallorca","Mallorca","Betis",1
+2020-02-22,"Celta Vigo","Leganés","Celta Vigo","Leganés",3
+2020-02-22,"Barcelona","Eibar","Barcelona","Eibar",3
+2020-02-22,"Real Sociedad","Valencia","Real Sociedad","Valencia",3
+2020-02-22,"Levante","Real Madrid","Levante","Real Madrid",3
+2020-02-23,"Osasuna","Granada","Granada","Osasuna",3
+2020-02-23,"Alavés","Athletic Club","Alavés","Athletic Club",3
+2020-02-23,"Valladolid","Espanyol","Valladolid","Espanyol",3
+2020-02-23,"Getafe","Sevilla","Sevilla","Getafe",3
+2020-02-23,"Atlético Madrid","Villarreal","Atlético Madrid","Villarreal",3
+2020-02-28,"Real Sociedad","Valladolid","Real Sociedad","Valladolid",3
+2020-02-29,"Eibar","Levante","Eibar","Levante",3
+2020-02-29,"Valencia","Betis","Valencia","Betis",3
+2020-02-29,"Leganés","Alavés","Leganés","Alavés",1
+2020-02-29,"Leganés","Alavés","Alavés","Leganés",1
+2020-02-29,"Granada","Celta Vigo","Granada","Celta Vigo",1
+2020-02-29,"Granada","Celta Vigo","Celta Vigo","Granada",1
+2020-03-01,"Sevilla","Osasuna","Sevilla","Osasuna",3
+2020-03-01,"Athletic Club","Villarreal","Athletic Club","Villarreal",3
+2020-03-01,"Espanyol","Atlético Madrid","Espanyol","Atlético Madrid",1
+2020-03-01,"Espanyol","Atlético Madrid","Atlético Madrid","Espanyol",1
+2020-03-01,"Mallorca","Getafe","Getafe","Mallorca",3
+2020-03-01,"Real Madrid","Barcelona","Real Madrid","Barcelona",3
+2020-03-06,"Alavés","Valencia","Alavés","Valencia",1
+2020-03-06,"Alavés","Valencia","Valencia","Alavés",1
+2020-03-07,"Eibar","Mallorca","Mallorca","Eibar",3
+2020-03-07,"Atlético Madrid","Sevilla","Atlético Madrid","Sevilla",1
+2020-03-07,"Atlético Madrid","Sevilla","Sevilla","Atlético Madrid",1
+2020-03-07,"Barcelona","Real Sociedad","Barcelona","Real Sociedad",3
+2020-03-07,"Getafe","Celta Vigo","Getafe","Celta Vigo",1
+2020-03-07,"Getafe","Celta Vigo","Celta Vigo","Getafe",1
+2020-03-08,"Osasuna","Espanyol","Osasuna","Espanyol",3
+2020-03-08,"Valladolid","Athletic Club","Athletic Club","Valladolid",3
+2020-03-08,"Levante","Granada","Levante","Granada",1
+2020-03-08,"Levante","Granada","Granada","Levante",1
+2020-03-08,"Villarreal","Leganés","Leganés","Villarreal",3
+2020-03-08,"Betis","Real Madrid","Betis","Real Madrid",3
+2020-06-11,"Sevilla","Betis","Sevilla","Betis",3
+2020-06-12,"Granada","Getafe","Granada","Getafe",3
+2020-06-12,"Valencia","Levante","Valencia","Levante",1
+2020-06-12,"Valencia","Levante","Levante","Valencia",1
+2020-06-13,"Espanyol","Alavés","Espanyol","Alavés",3
+2020-06-13,"Celta Vigo","Villarreal","Villarreal","Celta Vigo",3
+2020-06-13,"Leganés","Valladolid","Valladolid","Leganés",3
+2020-06-13,"Mallorca","Barcelona","Barcelona","Mallorca",3
+2020-06-14,"Athletic Club","Atlético Madrid","Athletic Club","Atlético Madrid",1
+2020-06-14,"Athletic Club","Atlético Madrid","Atlético Madrid","Athletic Club",1
+2020-06-14,"Real Madrid","Eibar","Real Madrid","Eibar",3
+2020-06-14,"Real Sociedad","Osasuna","Real Sociedad","Osasuna",1
+2020-06-14,"Real Sociedad","Osasuna","Osasuna","Real Sociedad",1
+2020-06-15,"Levante","Sevilla","Levante","Sevilla",1
+2020-06-15,"Levante","Sevilla","Sevilla","Levante",1
+2020-06-15,"Betis","Granada","Betis","Granada",1
+2020-06-15,"Betis","Granada","Granada","Betis",1
+2020-06-16,"Getafe","Espanyol","Getafe","Espanyol",1
+2020-06-16,"Getafe","Espanyol","Espanyol","Getafe",1
+2020-06-16,"Villarreal","Mallorca","Villarreal","Mallorca",3
+2020-06-16,"Barcelona","Leganés","Barcelona","Leganés",3
+2020-06-17,"Eibar","Athletic Club","Eibar","Athletic Club",1
+2020-06-17,"Eibar","Athletic Club","Athletic Club","Eibar",1
+2020-06-17,"Valladolid","Celta Vigo","Valladolid","Celta Vigo",1
+2020-06-17,"Valladolid","Celta Vigo","Celta Vigo","Valladolid",1
+2020-06-17,"Osasuna","Atlético Madrid","Atlético Madrid","Osasuna",3
+2020-06-18,"Alavés","Real Sociedad","Alavés","Real Sociedad",3
+2020-06-18,"Real Madrid","Valencia","Real Madrid","Valencia",3
+2019-08-30,"Sevilla","Celta Vigo","Sevilla","Celta Vigo",1
+2019-08-30,"Sevilla","Celta Vigo","Celta Vigo","Sevilla",1
+2019-08-30,"Athletic Club","Real Sociedad","Athletic Club","Real Sociedad",3
+2019-08-31,"Osasuna","Barcelona","Osasuna","Barcelona",1
+2019-08-31,"Osasuna","Barcelona","Barcelona","Osasuna",1
+2019-08-31,"Getafe","Alavés","Getafe","Alavés",1
+2019-08-31,"Getafe","Alavés","Alavés","Getafe",1
+2019-08-31,"Levante","Valladolid","Levante","Valladolid",3
+2019-08-31,"Betis","Leganés","Betis","Leganés",3
+2019-09-01,"Valencia","Mallorca","Valencia","Mallorca",3
+2019-09-01,"Espanyol","Granada","Granada","Espanyol",3
+2019-09-01,"Atlético Madrid","Eibar","Atlético Madrid","Eibar",3
+2019-09-01,"Villarreal","Real Madrid","Villarreal","Real Madrid",1
+2019-09-01,"Villarreal","Real Madrid","Real Madrid","Villarreal",1
+2020-06-19,"Mallorca","Leganés","Mallorca","Leganés",1
+2020-06-19,"Mallorca","Leganés","Leganés","Mallorca",1
+2020-06-19,"Granada","Villarreal","Villarreal","Granada",3
+2020-06-19,"Sevilla","Barcelona","Sevilla","Barcelona",1
+2020-06-19,"Sevilla","Barcelona","Barcelona","Sevilla",1
+2020-06-20,"Espanyol","Levante","Levante","Espanyol",3
+2020-06-20,"Athletic Club","Betis","Athletic Club","Betis",3
+2020-06-20,"Getafe","Eibar","Getafe","Eibar",1
+2020-06-20,"Getafe","Eibar","Eibar","Getafe",1
+2020-06-20,"Atlético Madrid","Valladolid","Atlético Madrid","Valladolid",3
+2020-06-21,"Celta Vigo","Alavés","Celta Vigo","Alavés",3
+2020-06-21,"Valencia","Osasuna","Valencia","Osasuna",3
+2020-06-21,"Real Sociedad","Real Madrid","Real Madrid","Real Sociedad",3
+2020-06-22,"Villarreal","Sevilla","Villarreal","Sevilla",1
+2020-06-22,"Villarreal","Sevilla","Sevilla","Villarreal",1
+2020-06-22,"Leganés","Granada","Leganés","Granada",1
+2020-06-22,"Leganés","Granada","Granada","Leganés",1
+2020-06-23,"Valladolid","Getafe","Valladolid","Getafe",1
+2020-06-23,"Valladolid","Getafe","Getafe","Valladolid",1
+2020-06-23,"Levante","Atlético Madrid","Atlético Madrid","Levante",3
+2020-06-23,"Barcelona","Athletic Club","Barcelona","Athletic Club",3
+2020-06-24,"Real Sociedad","Celta Vigo","Celta Vigo","Real Sociedad",3
+2020-06-24,"Alavés","Osasuna","Osasuna","Alavés",3
+2020-06-24,"Real Madrid","Mallorca","Real Madrid","Mallorca",3
+2020-06-25,"Eibar","Valencia","Eibar","Valencia",3
+2020-06-25,"Betis","Espanyol","Betis","Espanyol",3
+2020-06-26,"Sevilla","Valladolid","Sevilla","Valladolid",1
+2020-06-26,"Sevilla","Valladolid","Valladolid","Sevilla",1
+2020-06-27,"Athletic Club","Mallorca","Athletic Club","Mallorca",3
+2020-06-27,"Celta Vigo","Barcelona","Celta Vigo","Barcelona",1
+2020-06-27,"Celta Vigo","Barcelona","Barcelona","Celta Vigo",1
+2020-06-27,"Osasuna","Leganés","Osasuna","Leganés",3
+2020-06-27,"Atlético Madrid","Alavés","Atlético Madrid","Alavés",3
+2020-06-28,"Levante","Betis","Levante","Betis",3
+2020-06-28,"Villarreal","Valencia","Villarreal","Valencia",3
+2020-06-28,"Granada","Eibar","Eibar","Granada",3
+2020-06-28,"Espanyol","Real Madrid","Real Madrid","Espanyol",3
+2020-06-29,"Getafe","Real Sociedad","Getafe","Real Sociedad",3
+2020-06-30,"Mallorca","Celta Vigo","Mallorca","Celta Vigo",3
+2020-06-30,"Leganés","Sevilla","Sevilla","Leganés",3
+2020-06-30,"Barcelona","Atlético Madrid","Barcelona","Atlético Madrid",1
+2020-06-30,"Barcelona","Atlético Madrid","Atlético Madrid","Barcelona",1
+2020-07-01,"Valencia","Athletic Club","Athletic Club","Valencia",3
+2020-07-01,"Alavés","Granada","Granada","Alavés",3
+2020-07-01,"Betis","Villarreal","Villarreal","Betis",3
+2020-07-01,"Valladolid","Levante","Valladolid","Levante",1
+2020-07-01,"Valladolid","Levante","Levante","Valladolid",1
+2020-07-02,"Eibar","Osasuna","Osasuna","Eibar",3
+2020-07-02,"Real Sociedad","Espanyol","Real Sociedad","Espanyol",3
+2020-07-02,"Real Madrid","Getafe","Real Madrid","Getafe",3
+2020-07-03,"Atlético Madrid","Mallorca","Atlético Madrid","Mallorca",3
+2020-07-04,"Celta Vigo","Betis","Celta Vigo","Betis",1
+2020-07-04,"Celta Vigo","Betis","Betis","Celta Vigo",1
+2020-07-04,"Valladolid","Alavés","Valladolid","Alavés",3
+2020-07-04,"Granada","Valencia","Granada","Valencia",1
+2020-07-04,"Granada","Valencia","Valencia","Granada",1
+2020-07-05,"Athletic Club","Real Madrid","Real Madrid","Athletic Club",3
+2020-07-05,"Espanyol","Leganés","Leganés","Espanyol",3
+2020-07-05,"Osasuna","Getafe","Osasuna","Getafe",1
+2020-07-05,"Osasuna","Getafe","Getafe","Osasuna",1
+2020-07-05,"Villarreal","Barcelona","Barcelona","Villarreal",3
+2020-07-06,"Levante","Real Sociedad","Levante","Real Sociedad",1
+2020-07-06,"Levante","Real Sociedad","Real Sociedad","Levante",1
+2020-07-06,"Sevilla","Eibar","Sevilla","Eibar",3
+2020-07-07,"Valencia","Valladolid","Valencia","Valladolid",3
+2020-07-07,"Celta Vigo","Atlético Madrid","Celta Vigo","Atlético Madrid",1
+2020-07-07,"Celta Vigo","Atlético Madrid","Atlético Madrid","Celta Vigo",1
+2020-07-08,"Betis","Osasuna","Betis","Osasuna",3
+2020-07-08,"Getafe","Villarreal","Villarreal","Getafe",3
+2020-07-08,"Barcelona","Espanyol","Barcelona","Espanyol",3
+2020-07-09,"Eibar","Leganés","Eibar","Leganés",1
+2020-07-09,"Eibar","Leganés","Leganés","Eibar",1
+2020-07-09,"Mallorca","Levante","Mallorca","Levante",3
+2020-07-09,"Athletic Club","Sevilla","Sevilla","Athletic Club",3
+2020-07-10,"Real Sociedad","Granada","Granada","Real Sociedad",3
+2020-07-10,"Real Madrid","Alavés","Real Madrid","Alavés",3
+2020-07-11,"Osasuna","Celta Vigo","Osasuna","Celta Vigo",3
+2020-07-11,"Valladolid","Barcelona","Barcelona","Valladolid",3
+2020-07-11,"Atlético Madrid","Betis","Atlético Madrid","Betis",3
+2020-07-12,"Espanyol","Eibar","Eibar","Espanyol",3
+2020-07-12,"Levante","Athletic Club","Athletic Club","Levante",3
+2020-07-12,"Leganés","Valencia","Leganés","Valencia",3
+2020-07-12,"Sevilla","Mallorca","Sevilla","Mallorca",3
+2020-07-13,"Villarreal","Real Sociedad","Real Sociedad","Villarreal",3
+2020-07-13,"Alavés","Getafe","Alavés","Getafe",1
+2020-07-13,"Alavés","Getafe","Getafe","Alavés",1
+2020-07-13,"Granada","Real Madrid","Real Madrid","Granada",3
+2020-07-16,"Eibar","Valladolid","Eibar","Valladolid",3
+2020-07-16,"Barcelona","Osasuna","Osasuna","Barcelona",3
+2020-07-16,"Valencia","Espanyol","Valencia","Espanyol",3
+2020-07-16,"Athletic Club","Leganés","Leganés","Athletic Club",3
+2020-07-16,"Getafe","Atlético Madrid","Atlético Madrid","Getafe",3
+2020-07-16,"Mallorca","Granada","Granada","Mallorca",3
+2020-07-16,"Real Sociedad","Sevilla","Real Sociedad","Sevilla",1
+2020-07-16,"Real Sociedad","Sevilla","Sevilla","Real Sociedad",1
+2020-07-16,"Celta Vigo","Levante","Levante","Celta Vigo",3
+2020-07-16,"Real Madrid","Villarreal","Real Madrid","Villarreal",3
+2020-07-16,"Betis","Alavés","Alavés","Betis",3
+2020-07-19,"Alavés","Barcelona","Barcelona","Alavés",3
+2020-07-19,"Valladolid","Betis","Valladolid","Betis",3
+2020-07-19,"Villarreal","Eibar","Villarreal","Eibar",3
+2020-07-19,"Atlético Madrid","Real Sociedad","Atlético Madrid","Real Sociedad",1
+2020-07-19,"Atlético Madrid","Real Sociedad","Real Sociedad","Atlético Madrid",1
+2020-07-19,"Sevilla","Valencia","Sevilla","Valencia",3
+2020-07-19,"Osasuna","Mallorca","Osasuna","Mallorca",1
+2020-07-19,"Osasuna","Mallorca","Mallorca","Osasuna",1
+2020-07-19,"Levante","Getafe","Levante","Getafe",3
+2020-07-19,"Leganés","Real Madrid","Leganés","Real Madrid",1
+2020-07-19,"Leganés","Real Madrid","Real Madrid","Leganés",1
+2020-07-19,"Espanyol","Celta Vigo","Espanyol","Celta Vigo",1
+2020-07-19,"Espanyol","Celta Vigo","Celta Vigo","Espanyol",1
+2020-07-19,"Granada","Athletic Club","Granada","Athletic Club",3
+2019-09-13,"Mallorca","Athletic Club","Mallorca","Athletic Club",1
+2019-09-13,"Mallorca","Athletic Club","Athletic Club","Mallorca",1
+2019-09-14,"Real Madrid","Levante","Real Madrid","Levante",3
+2019-09-14,"Leganés","Villarreal","Villarreal","Leganés",3
+2019-09-14,"Real Sociedad","Atlético Madrid","Real Sociedad","Atlético Madrid",3
+2019-09-14,"Barcelona","Valencia","Barcelona","Valencia",3
+2019-09-15,"Eibar","Espanyol","Espanyol","Eibar",3
+2019-09-15,"Alavés","Sevilla","Sevilla","Alavés",3
+2019-09-15,"Celta Vigo","Granada","Granada","Celta Vigo",3
+2019-09-15,"Valladolid","Osasuna","Valladolid","Osasuna",1
+2019-09-15,"Valladolid","Osasuna","Osasuna","Valladolid",1
+2019-09-15,"Betis","Getafe","Betis","Getafe",1
+2019-09-15,"Betis","Getafe","Getafe","Betis",1
+2019-09-20,"Osasuna","Betis","Osasuna","Betis",1
+2019-09-20,"Osasuna","Betis","Betis","Osasuna",1
+2019-09-21,"Villarreal","Valladolid","Villarreal","Valladolid",3
+2019-09-21,"Levante","Eibar","Levante","Eibar",1
+2019-09-21,"Levante","Eibar","Eibar","Levante",1
+2019-09-21,"Atlético Madrid","Celta Vigo","Atlético Madrid","Celta Vigo",1
+2019-09-21,"Atlético Madrid","Celta Vigo","Celta Vigo","Atlético Madrid",1
+2019-09-21,"Granada","Barcelona","Granada","Barcelona",3
+2019-09-22,"Getafe","Mallorca","Getafe","Mallorca",3
+2019-09-22,"Espanyol","Real Sociedad","Real Sociedad","Espanyol",3
+2019-09-22,"Valencia","Leganés","Valencia","Leganés",1
+2019-09-22,"Valencia","Leganés","Leganés","Valencia",1
+2019-09-22,"Athletic Club","Alavés","Athletic Club","Alavés",3
+2019-09-22,"Sevilla","Real Madrid","Real Madrid","Sevilla",3
+2019-09-24,"Valladolid","Granada","Valladolid","Granada",1
+2019-09-24,"Valladolid","Granada","Granada","Valladolid",1
+2019-09-24,"Betis","Levante","Betis","Levante",3
+2019-09-24,"Barcelona","Villarreal","Barcelona","Villarreal",3
+2019-09-25,"Mallorca","Atlético Madrid","Atlético Madrid","Mallorca",3
+2019-09-25,"Leganés","Athletic Club","Leganés","Athletic Club",1
+2019-09-25,"Leganés","Athletic Club","Athletic Club","Leganés",1
+2019-09-25,"Valencia","Getafe","Valencia","Getafe",1
+2019-09-25,"Valencia","Getafe","Getafe","Valencia",1
+2019-09-25,"Real Madrid","Osasuna","Real Madrid","Osasuna",3
+2019-09-26,"Eibar","Sevilla","Eibar","Sevilla",3
+2019-09-26,"Celta Vigo","Espanyol","Celta Vigo","Espanyol",1
+2019-09-26,"Celta Vigo","Espanyol","Espanyol","Celta Vigo",1
+2019-09-26,"Real Sociedad","Alavés","Real Sociedad","Alavés",3
+2019-09-27,"Villarreal","Betis","Villarreal","Betis",3
+2019-09-28,"Athletic Club","Valencia","Valencia","Athletic Club",3
+2019-09-28,"Getafe","Barcelona","Barcelona","Getafe",3
+2019-09-28,"Granada","Leganés","Granada","Leganés",3
+2019-09-28,"Atlético Madrid","Real Madrid","Atlético Madrid","Real Madrid",1
+2019-09-28,"Atlético Madrid","Real Madrid","Real Madrid","Atlético Madrid",1
+2019-09-29,"Espanyol","Valladolid","Valladolid","Espanyol",3
+2019-09-29,"Eibar","Celta Vigo","Eibar","Celta Vigo",3
+2019-09-29,"Alavés","Mallorca","Alavés","Mallorca",3
+2019-09-29,"Levante","Osasuna","Levante","Osasuna",1
+2019-09-29,"Levante","Osasuna","Osasuna","Levante",1
+2019-09-29,"Sevilla","Real Sociedad","Sevilla","Real Sociedad",3
+2019-10-04,"Betis","Eibar","Betis","Eibar",1
+2019-10-04,"Betis","Eibar","Eibar","Betis",1
+2019-10-05,"Leganés","Levante","Levante","Leganés",3
+2019-10-05,"Real Madrid","Granada","Real Madrid","Granada",3
+2019-10-05,"Valencia","Alavés","Valencia","Alavés",3
+2019-10-05,"Osasuna","Villarreal","Osasuna","Villarreal",3
+2019-10-06,"Mallorca","Espanyol","Mallorca","Espanyol",3
+2019-10-06,"Celta Vigo","Athletic Club","Celta Vigo","Athletic Club",3
+2019-10-06,"Valladolid","Atlético Madrid","Valladolid","Atlético Madrid",1
+2019-10-06,"Valladolid","Atlético Madrid","Atlético Madrid","Valladolid",1
+2019-10-06,"Real Sociedad","Getafe","Getafe","Real Sociedad",3
+2019-10-06,"Barcelona","Sevilla","Barcelona","Sevilla",3
+2019-10-18,"Granada","Osasuna","Granada","Osasuna",3
+2019-10-19,"Eibar","Barcelona","Barcelona","Eibar",3
+2019-10-19,"Atlético Madrid","Valencia","Atlético Madrid","Valencia",1
+2019-10-19,"Atlético Madrid","Valencia","Valencia","Atlético Madrid",1
+2019-10-19,"Getafe","Leganés","Getafe","Leganés",3
+2019-10-19,"Mallorca","Real Madrid","Mallorca","Real Madrid",3
+2019-10-20,"Alavés","Celta Vigo","Alavés","Celta Vigo",3
+2019-10-20,"Real Sociedad","Betis","Real Sociedad","Betis",3
+2019-10-20,"Espanyol","Villarreal","Villarreal","Espanyol",3
+2019-10-20,"Athletic Club","Valladolid","Athletic Club","Valladolid",1
+2019-10-20,"Athletic Club","Valladolid","Valladolid","Athletic Club",1
+2019-10-20,"Sevilla","Levante","Sevilla","Levante",3
